@@ -1,0 +1,13 @@
+Movie;Duration;Age Restriction;Genre;0
+Deadpool;1:56;16SNVL;Action;55
+A Quiet Place;1:34;PG13V;Horror;55
+The Notebook;1:16;PG13;Romance;55
+Frozen 2;1:30;Fam;Animation;55
+Everything Everything;1:48;PG13;Drama;55
+The Incredibles;1:57;Fam;Animation;55
+Avengers:Infinity War;2:23;13VL;Sci-Fi;55
+Fantastic Beasts;2:01;PG13VL;Adventure;55
+
+;;;;0
+Avengers: Age of Ultron;2:00;2:00;Adventure;0
+Thor;1:56;1:56;Adventure;0

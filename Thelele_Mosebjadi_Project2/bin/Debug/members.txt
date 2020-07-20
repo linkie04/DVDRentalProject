@@ -1,0 +1,12 @@
+Simone;Walters;23;Female;0713347624
+Amanda;Sheel;19;Female;0670097867
+Siyabonga;Dlamini;34;0652347705
+Trevors;Rooibaaidjie;18;0780097865
+Calvin;Scot;45;0839968746
+Mpho;Scully;19;0847070801
+Linky;Monyela;18;Female;0718347665
+Sammy;Monyela;0;Male;0986752243
+Jules;Duarte;0;Female;0745569078
+Lira;Thele;0;Female;0877078893
+Lira;Monyela;0;Female;0975564355
+Steve;Ndlovu;19;Male;0765660856

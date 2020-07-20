@@ -1,0 +1,11 @@
+2018-11-07 07:43:42 PM;The Incredibles;1:57;Fam;55
+2018-11-07 09:31:25 PM;Deadpool;1:56;16SNVL;90,99
+2019-01-27 07:19:41 PM;The Notebook;1:16;PG13;90,99
+2019-01-27 07:20:15 PM;The Incredibles;1:57;Fam;55
+2020-05-18 08:37:12 PM;The Incredibles;1:57;Fam;90,99
+2020-05-18 08:37:55 PM;The Notebook;1:16;PG13;90,99
+2020-07-19 03:21:35 AM;Fantastic Beasts;2:01;PG13VL;90,99
+2020-07-19 03:21:54 AM;The Incredibles;1:57;Fam;55
+2020-07-19 11:12:12 PM;Everything Everything;1:48;PG13;90,99
+2020-07-19 11:31:56 PM;Avengers:Infinity War;2:23;13VL;55
+2020-07-19 11:32:16 PM;Avengers:Infinity War;2:23;13VL;90,99
